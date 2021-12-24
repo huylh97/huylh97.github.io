@@ -58983,7 +58983,7 @@ return A.e3(A.a([A.jo(A.a([A.ba(this.a.d,s,s,A.cw(s,s,B.j,s,s,s,s,s,s,s,s,s,s,s,
 $S:357}
 A.EU.prototype={
 J(a,b){var s=null,r=A.aiU(B.U),q=A.ab(b).T
-return new A.v4(new A.E3(s),"Flutter Demo",r.a0n(B.eE,B.b6,B.eE,new A.df(A.ft(q.a),A.ft(q.b),A.ft(q.c),A.ft(q.d),A.ft(q.e),A.ft(q.f),A.ft(q.r),A.ft(q.x),A.ft(q.y),A.ft(q.z),A.ft(q.Q),A.ft(q.ch),A.ft(q.cx)).a_1(B.j).a0d(A.cw(s,s,B.i0,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),A.cw(s,s,B.i0,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s))),!1,new A.XE(s),s)}}
+return new A.v4(new A.E3(s),"My Profile",r.a0n(B.eE,B.b6,B.eE,new A.df(A.ft(q.a),A.ft(q.b),A.ft(q.c),A.ft(q.d),A.ft(q.e),A.ft(q.f),A.ft(q.r),A.ft(q.x),A.ft(q.y),A.ft(q.z),A.ft(q.Q),A.ft(q.ch),A.ft(q.cx)).a_1(B.j).a0d(A.cw(s,s,B.i0,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),A.cw(s,s,B.i0,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s))),!1,new A.XE(s),s)}}
 A.XE.prototype={
 gxC(){return A.d_([B.c3,B.be],t.G)}}
 A.G9.prototype={}
